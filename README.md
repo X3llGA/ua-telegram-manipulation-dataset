@@ -8,7 +8,7 @@ Annotated dataset of Ukrainian Telegram posts for manipulation detection (span i
 ## Overview
 This repository contains an annotated corpus of Ukrainian-language Telegram posts designed for detecting and analyzing manipulative discourse in social media. The dataset supports both **span-level identification** of manipulative text fragments and **multilabel classification** of specific rhetorical and psychological manipulation techniques.
 
-The corpus was developed as a research deliverable of the **Socio-Communicative Internship in Computational Linguistics** at Taras Shevchenko National University of Kyiv. The dataset was created by a student team comprising **O. Solodka, M. Yurutkin, A. Rudiuk, D. Dudnik, T. Androshchuk, D. Bidochka, Ye. Morhunova, K. Nesterenko, Ya. Oliinyk, O. Olkhovyk, and K. Savron**, under the academic supervision of **O. Zuban, V. Robeyko, Ya. Khodakivskya**.
+The corpus was developed as a research deliverable of the **Socio-Communicative Internship in Computational Linguistics** within the framework of the research project "Linguistic expert analysis of Ukrainian-language destructive Internet content using artificial intelligence technologies" (No. 0125U002254, Taras Shevchenko National University of Kyiv). The dataset was created by a student team comprising **O. Solodka, M. Yurutkin, A. Rudiuk, D. Dudnik, T. Androshchuk, D. Bidochka, Ye. Morhunova, K. Nesterenko, Ya. Oliinyk, O. Olkhovyk, and K. Savron**, under the academic supervision of **O. Zuban, V. Robeiko, and Ya. Khodakivskya.**
 
 ## Task Description
 The dataset addresses two core NLP tasks:
